@@ -1,9 +1,9 @@
 # Valorant-Streaming-Overlay
-An automated valorant streaming overlay for obs. It takes data from valorant using a local api then sends it to obs for display.
+An automated valorant streaming overlay for obs.
 
 # More will be added here soon
 
-# Install
+# Install/Start
 
 # Need Help?
 
