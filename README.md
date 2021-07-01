@@ -1,4 +1,4 @@
-# Valorant-Streaming-Overlay
+# Valorant Streaming Overlay
 An automated valorant streaming overlay for obs.
 
 # More will be added here soon
