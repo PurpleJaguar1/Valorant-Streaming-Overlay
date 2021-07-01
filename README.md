@@ -12,5 +12,5 @@ Add me on discord at: Purple jaguar#6969
 # Credit
 UI design: Purple Jaguar
 
-Code: SpookyBear0(Wrote most of the code)
+Code: SpookyBear0 and Purple Jaguar
 
